@@ -10,7 +10,7 @@ Open Source Log Page for Solidworks
 1. Download/clone files
 2. Add Solidworks references either from [AngelSix](https://github.com/angelsix/solidworks-api/tree/develop/References) or "C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\api\redist"
 3. Build in VS
-4. Register swOLD.dll using Regasm or [AngelSix's Addin Installer](https://github.com/angelsix/solidworks-api/tree/develop/Tools/Addin%20Installer)
+4. Register swOLP.dll using Regasm or [AngelSix's Addin Installer](https://github.com/angelsix/solidworks-api/tree/develop/Tools/Addin%20Installer)
 5. Launch Solidworks and try example below
 
 ## VBA Example
