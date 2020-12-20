@@ -3,7 +3,7 @@ Open Source Log Page for Solidworks
 
 ## Table of contents
 * [Setup](#setup)
-* [VBA Example](#vbaExample)
+* [VBA Example](#vba-example)
 
 
 ## Setup
